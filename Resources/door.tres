@@ -1,0 +1,39 @@
+[gd_resource type="SpriteFrames" load_steps=6 format=3 uid="uid://bu8iuqeafs7gr"]
+
+[ext_resource type="Texture2D" uid="uid://drfweeojq87vr" path="res://Assets/Sprout Lands/Tilesets/Doors.png" id="1_l5osl"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_kxmmu"]
+atlas = ExtResource("1_l5osl")
+region = Rect2(0, 16, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ob1an"]
+atlas = ExtResource("1_l5osl")
+region = Rect2(0, 48, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0be7f"]
+atlas = ExtResource("1_l5osl")
+region = Rect2(0, 32, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qk0h5"]
+atlas = ExtResource("1_l5osl")
+region = Rect2(0, 0, 16, 16)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_kxmmu")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ob1an")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0be7f")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qk0h5")
+}],
+"loop": false,
+"name": &"open_close",
+"speed": 5.0
+}]
