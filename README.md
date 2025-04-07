@@ -16,7 +16,7 @@ To make this easier, there is a link to the commit for each part.
 
 [[Video](https://www.youtube.com/watch?v=RmCj92MIkoE)]
 [[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/farming-game-p1)]
-[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/010166a7e75207baa2391e7af0c0f48e954dec3f)]
+[[Commit](https://github.com/Tall-Tales/2d-farming-game/commit/d2b342fe347e54bdb2243d5292ad54d17e343652)]
 
 > **Build a 2D Farming Game from ZERO (Pt. 1) With GODOT - Getting Started**
 
