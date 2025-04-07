@@ -1,5 +1,9 @@
 # Build a 2D Farming Game from Zero Video Series
 
+## Credits
+### Sprout Lands Assets - by Cup Nooble
+https://cupnooble.itch.io/sprout-lands-asset-pack
+
 ## How to Get Started
 
 This respository is broken into a series of releases/commits/tags that correspond to the [Build a 2D Farming Game from Zero Video Series](https://www.youtube.com/playlist?list=PL8c9q7U-eUWXrdlF7HWg_lZUuuBDDcA4x).
