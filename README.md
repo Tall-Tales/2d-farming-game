@@ -1,7 +1,9 @@
 # Build a 2D Farming Game from Zero Video Series
 
 ## Credits
+
 ### Sprout Lands Assets - by Cup Nooble
+
 https://cupnooble.itch.io/sprout-lands-asset-pack
 
 ## How to Get Started
@@ -26,8 +28,16 @@ To make this easier, there is a link to the commit for each part.
 
 ### Part 2 - COMING SOON
 
+[[Video](https://www.youtube.com/watch?v=ecFJI0TNHTk)]
+[[Release]()]
+[[Commit]()]
+
+> **Build a 2D Farming Game from ZERO (Pt. 2) With GODOT - Groundwork**
+
+### Part 3 - COMING SOON
+
 [[Video]()]
 [[Release]()]
 [[Commit]()]
 
-> **Build a 2D Farming Game from ZERO (Pt. 2) With GODOT - Find Your Tools**
+> **Build a 2D Farming Game from ZERO (Pt. 3) With GODOT - ???**
