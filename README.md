@@ -29,8 +29,8 @@ To make this easier, there is a link to the commit for each part.
 ### Part 2 - COMING SOON
 
 [[Video](https://www.youtube.com/watch?v=ecFJI0TNHTk)]
-[[Release]()]
-[[Commit]()]
+[[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/part2)]
+[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/80909c8a659619486caf823fad655588283c0e27)]
 
 > **Build a 2D Farming Game from ZERO (Pt. 2) With GODOT - Groundwork**
 
