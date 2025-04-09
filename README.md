@@ -26,7 +26,7 @@ To make this easier, there is a link to the commit for each part.
 
 > **Build a 2D Farming Game from ZERO (Pt. 1) With GODOT - Getting Started**
 
-### Part 2 - COMING SOON
+### Part 2
 
 [[Video](https://www.youtube.com/watch?v=ecFJI0TNHTk)]
 [[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/part2)]
