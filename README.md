@@ -42,7 +42,7 @@ To make this easier, there is a link to the commit for each part.
 
 [[Video](https://www.youtube.com/watch?v=ZcCtu1FUTz4)]
 [[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/part3-4)]
-[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/cac1d791308cee05cbe23beefac798c7362f6095)]
+[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/4431af2ab611b694d5cc7ab9f25233eee250438f)]
 
 > **Build a 2D Farming Game from ZERO (Pt. 3) With GODOT - Crops & Resources**
 
@@ -50,6 +50,6 @@ To make this easier, there is a link to the commit for each part.
 
 [[Video](https://youtu.be/U0uq5e9lvFc)]
 [[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/part3-4)]
-[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/cac1d791308cee05cbe23beefac798c7362f6095)]
+[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/4431af2ab611b694d5cc7ab9f25233eee250438f)]
 
 > **Build a 2D Farming Game from ZERO (Pt. 3) With GODOT - Gather & Harvest**
