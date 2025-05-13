@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="Item" load_steps=5 format=3 uid="uid://1qqei0w7cpbt"]
+
+[ext_resource type="Script" uid="uid://d4iy62djfx8sj" path="res://Scripts/item_resource.gd" id="1_ywu7n"]
+[ext_resource type="Script" uid="uid://dw28jt47ta8vl" path="res://Scripts/mapped_texture_resource.gd" id="2_urv28"]
+[ext_resource type="Texture2D" uid="uid://w4kb2pfke1cy" path="res://Assets/Sprout Lands/Objects/Basic_Plants.png" id="3_n6ux0"]
+
+[sub_resource type="Resource" id="Resource_urv28"]
+script = ExtResource("2_urv28")
+texture_resource = ExtResource("3_n6ux0")
+texture_hframes = 6
+texture_vframes = 4
+texture_frame = 5
+metadata/_custom_type_script = "uid://dw28jt47ta8vl"
+
+[resource]
+script = ExtResource("1_ywu7n")
+name = "Corn"
+texture_resource = SubResource("Resource_urv28")
+metadata/_custom_type_script = "uid://d4iy62djfx8sj"

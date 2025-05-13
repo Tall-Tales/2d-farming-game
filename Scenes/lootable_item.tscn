@@ -1,0 +1,28 @@
+[gd_scene load_steps=4 format=3 uid="uid://dnu855bfccv2r"]
+
+[ext_resource type="Script" uid="uid://b1j28l3ngeevr" path="res://Scripts/lootable_item.gd" id="1_wxqpa"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_w48qg"]
+friction = 0.1
+bounce = 0.7
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_dg77c"]
+
+[node name="LootableItem" type="RigidBody2D" node_paths=PackedStringArray("sprite")]
+y_sort_enabled = true
+collision_layer = 4
+collision_mask = 2
+input_pickable = true
+physics_material_override = SubResource("PhysicsMaterial_w48qg")
+gravity_scale = 0.3
+can_sleep = false
+lock_rotation = true
+script = ExtResource("1_wxqpa")
+sprite = NodePath("Sprite2D")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+offset = Vector2(0, -8)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -8)
+shape = SubResource("CircleShape2D_dg77c")

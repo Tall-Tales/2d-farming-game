@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="Crop" load_steps=6 format=3 uid="uid://bj5o26048hbxw"]
+
+[ext_resource type="Resource" uid="uid://1qqei0w7cpbt" path="res://Resources/corn.tres" id="1_bu74v"]
+[ext_resource type="Script" uid="uid://ddsjvui2rtlux" path="res://Scripts/crop_resource.gd" id="1_ywu7n"]
+[ext_resource type="Script" uid="uid://dw28jt47ta8vl" path="res://Scripts/mapped_texture_resource.gd" id="2_urv28"]
+[ext_resource type="Texture2D" uid="uid://w4kb2pfke1cy" path="res://Assets/Sprout Lands/Objects/Basic_Plants.png" id="3_n6ux0"]
+
+[sub_resource type="Resource" id="Resource_gtqsd"]
+script = ExtResource("2_urv28")
+texture_resource = ExtResource("3_n6ux0")
+texture_hframes = 6
+texture_vframes = 4
+texture_frame = 1
+metadata/_custom_type_script = "uid://dw28jt47ta8vl"
+
+[resource]
+script = ExtResource("1_ywu7n")
+harvest = ExtResource("1_bu74v")
+growth_phase = 0
+texture_resource = SubResource("Resource_gtqsd")
+germination_duration = 0.5
+budding_duration = 0.5
+flowering_duration = 0.5
+maturation_duration = 0.5
+metadata/_custom_type_script = "uid://ddsjvui2rtlux"

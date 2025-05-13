@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="Inventory" load_steps=2 format=3 uid="uid://dwr6g4kl63448"]
+
+[ext_resource type="Script" uid="uid://b47qeiwoe3cey" path="res://Scripts/inventory_resource.gd" id="1_2ps2c"]
+
+[resource]
+script = ExtResource("1_2ps2c")
+max_capacity = 10
+items = {
+0: null,
+1: null,
+2: null,
+3: null,
+4: null,
+5: null,
+6: null,
+7: null,
+8: null,
+9: null
+}
+metadata/_custom_type_script = "uid://b47qeiwoe3cey"

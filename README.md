@@ -6,6 +6,10 @@
 
 https://cupnooble.itch.io/sprout-lands-asset-pack
 
+### Cursor Pack - by Kenney
+
+https://kenney.nl/assets/cursor-pack
+
 ## How to Get Started
 
 This respository is broken into a series of releases/commits/tags that correspond to the [Build a 2D Farming Game from Zero Video Series](https://www.youtube.com/playlist?list=PL8c9q7U-eUWXrdlF7HWg_lZUuuBDDcA4x).
@@ -34,10 +38,18 @@ To make this easier, there is a link to the commit for each part.
 
 > **Build a 2D Farming Game from ZERO (Pt. 2) With GODOT - Groundwork**
 
-### Part 3 - COMING SOON
+### Part 3
 
-[[Video]()]
-[[Release]()]
-[[Commit]()]
+[[Video](https://www.youtube.com/watch?v=ZcCtu1FUTz4)]
+[[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/part3-4)]
+[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/cac1d791308cee05cbe23beefac798c7362f6095)]
 
-> **Build a 2D Farming Game from ZERO (Pt. 3) With GODOT - ???**
+> **Build a 2D Farming Game from ZERO (Pt. 3) With GODOT - Crops & Resources**
+
+### Part 4
+
+[[Video](https://youtu.be/U0uq5e9lvFc)]
+[[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/part3-4)]
+[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/cac1d791308cee05cbe23beefac798c7362f6095)]
+
+> **Build a 2D Farming Game from ZERO (Pt. 3) With GODOT - Gather & Harvest**
