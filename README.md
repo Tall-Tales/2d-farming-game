@@ -25,31 +25,31 @@ To make this easier, there is a link to the commit for each part.
 ### Part 1
 
 [[Video](https://www.youtube.com/watch?v=RmCj92MIkoE)]
-[[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/farming-game-p1)]
-[[Commit](https://github.com/Tall-Tales/2d-farming-game/commit/d2b342fe347e54bdb2243d5292ad54d17e343652)]
+[[Release](https://github.com/gadget-hq/2d-farming-game/releases/tag/farming-game-p1)]
+[[Commit](https://github.com/gadget-hq/2d-farming-game/commit/d2b342fe347e54bdb2243d5292ad54d17e343652)]
 
 > **Build a 2D Farming Game from ZERO (Pt. 1) With GODOT - Getting Started**
 
 ### Part 2
 
 [[Video](https://www.youtube.com/watch?v=ecFJI0TNHTk)]
-[[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/part2)]
-[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/80909c8a659619486caf823fad655588283c0e27)]
+[[Release](https://github.com/gadget-hq/2d-farming-game/releases/tag/part2)]
+[[Commit](https://github.com/gadget-hq/2d-farming-game/tree/80909c8a659619486caf823fad655588283c0e27)]
 
 > **Build a 2D Farming Game from ZERO (Pt. 2) With GODOT - Groundwork**
 
 ### Part 3
 
 [[Video](https://www.youtube.com/watch?v=ZcCtu1FUTz4)]
-[[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/part3-4)]
-[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/4431af2ab611b694d5cc7ab9f25233eee250438f)]
+[[Release](https://github.com/gadget-hq/2d-farming-game/releases/tag/part3-4)]
+[[Commit](https://github.com/gadget-hq/2d-farming-game/tree/4431af2ab611b694d5cc7ab9f25233eee250438f)]
 
 > **Build a 2D Farming Game from ZERO (Pt. 3) With GODOT - Crops & Resources**
 
 ### Part 4
 
 [[Video](https://youtu.be/U0uq5e9lvFc)]
-[[Release](https://github.com/Tall-Tales/2d-farming-game/releases/tag/part3-4)]
-[[Commit](https://github.com/Tall-Tales/2d-farming-game/tree/4431af2ab611b694d5cc7ab9f25233eee250438f)]
+[[Release](https://github.com/gadget-hq/2d-farming-game/releases/tag/part3-4)]
+[[Commit](https://github.com/gadget-hq/2d-farming-game/tree/4431af2ab611b694d5cc7ab9f25233eee250438f)]
 
 > **Build a 2D Farming Game from ZERO (Pt. 3) With GODOT - Gather & Harvest**
